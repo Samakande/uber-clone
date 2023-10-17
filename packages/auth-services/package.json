@@ -1,0 +1,26 @@
+{
+  "name": "auth-services",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Kudzayi <samakandekudzayi@gmail.com>",
+  "homepage": "https://github.com/Samakande/uber-clone#readme",
+  "license": "ISC",
+  "main": "lib/auth-services.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samakande/uber-clone.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/auth-services.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/Samakande/uber-clone/issues"
+  }
+}
